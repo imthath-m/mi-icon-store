@@ -1,7 +1,7 @@
 import XCTest
 
-import IcomojiStoreTests
+import IconStoreTests
 
 var tests = [XCTestCaseEntry]()
-tests += IcomojiStoreTests.allTests()
+tests += IconStoreTests.allTests()
 XCTMain(tests)
