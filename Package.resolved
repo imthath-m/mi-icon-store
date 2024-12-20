@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MIDataStore",
+        "repositoryURL": "https://github.com/imthath-m/mi-data-store",
+        "state": {
+          "branch": null,
+          "revision": "952b629ce7e9bf43a1e65900325bbd158ddc69fa",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

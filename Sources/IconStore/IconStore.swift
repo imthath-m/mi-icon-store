@@ -1,5 +1,5 @@
 import CoreData
-import MILocalStore
+import MIDataStore
 
 public class IconStore: CoreDataStorable, ObservableObject {
   public var modelName: String { "CoreDataStore" }
